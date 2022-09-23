@@ -1,6 +1,7 @@
 Ricettacolo
 
-Obiettivi del progetto
+                                                          <h1>Obiettivi del progetto<\h1>
+														  
 Il progetto ha come obiettivo la realizzazione di un’applicazione web che funga da ricettario, ovvero come una piattaforma in cui gli utenti possano liberamente trovare e condividere ricette in maniera semplice e gratuita.
 
 In particolare:
